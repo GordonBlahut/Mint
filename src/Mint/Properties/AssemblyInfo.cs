@@ -8,7 +8,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("Mint a.k.a. MaskableInt")]
 [assembly: AssemblyDescription("A library that provides a custom type (MaskableInt32) that mimics the exact characteristics of Int32 with buil-in obfuscation capabilities.")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("George Pancescu")]
 [assembly: AssemblyProduct("Mint")]
 [assembly: AssemblyCopyright("Copyright ©George Pancescu 2018")]
 [assembly: AssemblyTrademark("")]

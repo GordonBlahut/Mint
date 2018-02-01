@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package >
+	<metadata>
+		<id>$id$</id>
+		<version>$version$</version>
+		<title>$title$</title>
+		<authors>$author$</authors>
+		<owners>$author$</owners>
+		<requireLicenseAcceptance>false</requireLicenseAcceptance>
+		<summary>$description$</summary>
+		<description>$description$</description>		
+		<copyright>$copyright$</copyright>
+		<tags>Maskable Int</tags>	
+    <dependencies>
+    </dependencies>
+    <releaseNotes>
+      First version
+    </releaseNotes>
+	</metadata>
+	<files>
+	</files>
+</package>

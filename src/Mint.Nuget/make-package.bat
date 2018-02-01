@@ -1,1 +1,1 @@
-..\.nuget\nuget pack Mint.csproj -Build -Properties Configuration=Release -OutputDirectory ..\.nuget\packages\
+nuget pack ..\Mint\Mint.csproj -Build -Properties Configuration=Release -OutputDirectory packages\

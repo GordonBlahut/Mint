@@ -258,7 +258,7 @@ When using MaskableInt as route params, routes must not have parameter constrain
 ```
 
 ### Instalation
-The MaskableInt32 type can be used by installing **Mint nuget package** available here.
+The MaskableInt32 type can be used by installing **Mint nuget package** available [here](https://www.nuget.org/packages/Mint/).
 
 ```<language>
 Install-Package Mint

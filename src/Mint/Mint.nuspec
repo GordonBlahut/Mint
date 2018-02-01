@@ -10,7 +10,10 @@
 		<summary>$description$</summary>
 		<description>$description$</description>		
 		<copyright>$copyright$</copyright>
-		<tags>Maskable Int</tags>	
+		<licenseUrl>https://github.com/george-pancescu/Mint/blob/master/MIT.md</licenseUrl>
+    <projectUrl>https://github.com/george-pancescu/Mint</projectUrl>
+	  <language>en-US</language>
+	  <tags>Maskable Int</tags>
     <dependencies>
     </dependencies>
     <releaseNotes>

@@ -9,8 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mint.UnitTests", "Mint.Unit
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B9FF49BE-D13A-4F71-BC20-1DA19EAC887B}"
 	ProjectSection(SolutionItems) = preProject
-		Mint\MIT.md = Mint\MIT.md
-		Mint\Readme.md = Mint\Readme.md
+		..\MIT.md = ..\MIT.md
+		..\Readme.md = ..\Readme.md
 	EndProjectSection
 EndProject
 Global
